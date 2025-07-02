@@ -12,7 +12,7 @@ This is a Streamlit web app that uses a **TensorFlow EfficientNetV2B0 model** to
 - Microwave
 - Washing Machine
 
-🌐 **Live Demo**: [https://e-waste-app-XXXX.streamlit.app](#)  
+🌐 **Live Demo**: [https://e-waste-app-memcpt6hhak9nnkdvn7ur4.streamlit.app/](#)  
 (Replace this with your actual URL after deployment)
 
 ---
